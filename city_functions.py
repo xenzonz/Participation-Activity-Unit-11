@@ -1,4 +1,4 @@
-print("helloworld")
+#print("helloworld")
 
 def city_country(city, country, population=None):
 
@@ -10,7 +10,8 @@ def city_country(city, country, population=None):
 
     return f"{formatted_city}, {formatted_country}"
 
-def main():
-    print(city_country('santiago', 'chile', population=1919111))
+#def main():
+    #print(city_country('santiago', 'chile', population=1919111))
+    #print(city_country('tokyo', 'japan', population=13_960_000))
 
-main()
+#main()
